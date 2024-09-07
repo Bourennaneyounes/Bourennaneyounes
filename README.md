@@ -6,7 +6,7 @@ Game Developer | Web/Mobile Developer
 
 Graduated in Computer Vision from Limoges university, with immense passion for Web Development, Artificial Intelligence and Machine Learning, Game Development and Virtual Reality, I use a creative approach to solve problems within the predefined deadlines. I am a reliable and excellent in term of time management and agilty. I am looking for a job or an internship in the field of game development that will allow me to put my skills at the service of your company and learn new things.
 
-* 🌍  I'm based in Algeria
+* 🌍  I'm based in France
 * ✉️  You can contact me at [younesbourennane.yb@gmail.com](mailto:younesbourennane.yb@gmail.com)
 
 ### Skills
