@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Younes Bourennane
 =========================================================================================================================================
 
-Game Developer | Web/Mobile Developer
+Software Engineer
+-------------------------------------
+Computer Graphics & Unreal Engine Plugins | Web & Mobile Development | C++/ Python 
 -------------------------------------
 
-Graduated in Computer Vision from Limoges university, with immense passion for Web Development, Artificial Intelligence and Machine Learning, Game Development and Virtual Reality, I use a creative approach to solve problems within the predefined deadlines. I am a reliable and excellent in term of time management and agilty. I am looking for a job or an internship in the field of game development that will allow me to put my skills at the service of your company and learn new things.
+Graduated in Computer Graphics from Aix-Marseille University, with an immense passion for game engine development (UE5), web development, artificial intelligence, game development, and virtual reality. I use a creative approach to solve problems within the predefined deadlines. I am a reliable and excellent in term of time management and agilty. I am looking for a job that will allow me to put my skills at the service of your company and learn new things.
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [younesbourennane.yb@gmail.com](mailto:younesbourennane.yb@gmail.com)
@@ -32,4 +34,4 @@ Graduated in Computer Vision from Limoges university, with immense passion for W
 
 ### Socials
 
-<p align="left"> <a href="http://www.instagram.com/jo__onas/?hl=fr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/younes-bourennane-29921119a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left">  <a href="https://www.linkedin.com/in/younes-bourennane-29921119a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
